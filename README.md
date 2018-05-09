@@ -1,4 +1,4 @@
 # Simple-Django-login-
- A very basic django app that lets registered users login 
  
- Users can register only through the /Admin panel accessible only by the Superuser
+ A very basic django web application that lets registered users login 
+ 
