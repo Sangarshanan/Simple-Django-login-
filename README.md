@@ -8,4 +8,4 @@
  
  Password: sangarshanan (Its not actually emailID)
  
- 
+ Also go to https://loginappdjango.herokuapp.com/admin to register users for authentication
