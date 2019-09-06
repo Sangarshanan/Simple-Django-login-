@@ -1,126 +1,163 @@
 {
 	"type": "FeatureCollection",
 	"metadata": {
+		"generated": 1567753932000,
+		"url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
+		"title": "USGS All Earthquakes, Past Hour",
+		"status": 200,
+		"api": "1.8.1",
 		"count": 1
 	},
 	"features": [{
 			"type": "Feature",
-			"properties": {
-			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [-117.872, 36.073999999999998, 1.9299999999999999]
-			},
+				"coordinates": [
+					-117.872,
+					36.073999999999998,
+					1.9299999999999999
+				]
+			}
 		},
 		{
 			"type": "Feature",
-			"properties": {
-			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [-117.4555, 35.649999999999999, 2.5099999999999998]
-			},
+				"coordinates": [
+					-117.4555,
+					35.649999999999999,
+					2.5099999999999998
+				]
+			}
 		},
 		{
 			"type": "Feature",
-			"properties": {
-			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [-117.4518333, 35.6488333, 1.73]
-			},
+				"coordinates": [
+					-117.4518333,
+					35.6488333,
+					1.73
+				]
+			}
 		},
 		{
 			"type": "Feature",
-			"properties": {
-			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [-147.2336, 63.564, 12.800000000000001]
-			},
-			"id": "ak019bfwzijk"
+				"coordinates": [
+					-147.2336,
+					63.564,
+					12.800000000000001
+				]
+			}
 		},
 		{
 			"type": "Feature",
-			"properties": {
 			"geometry": {
 				"type": "Point",
-				"coordinates": [-117.43733330000001, 35.628833299999997, 2.3500000000000001]
-			},
+				"coordinates": [
+					-117.43733330000001,
+					35.628833299999997,
+					2.3500000000000001
+				]
+			}
 		},
 		{
 			"type": "Feature",
-			"properties": {
-			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [-117.4541667, 35.648333299999997, 2.1400000000000001]
-			},
+				"coordinates": [
+					-117.4541667,
+					35.648333299999997,
+					2.1400000000000001
+				]
+			}
 		},
 		{
 			"type": "Feature",
-			"properties": {
-			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [-117.6866667, 35.919333299999998, 2.0600000000000001]
-			},
+				"coordinates": [
+					-117.6866667,
+					35.919333299999998,
+					2.0600000000000001
+				]
+			}
 		},
 		{
 			"type": "Feature",
-			"properties": {
-			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [-117.5343333, 35.718000000000004, 4.2400000000000002]
-			},
+				"coordinates": [
+					-117.5343333,
+					35.718000000000004,
+					4.2400000000000002
+				]
+			}
 		},
 		{
 			"type": "Feature",
-			"properties": {
-			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [-142.97880000000001, 60.570399999999999, 31.800000000000001]
-			},
-			"id": "ak019bfwl6sg"
+				"coordinates": [
+					-142.97880000000001,
+					60.570399999999999,
+					31.800000000000001
+				]
+			}
 		},
 		{
 			"type": "Feature",
-			"properties": {
-			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [-117.6946667, 35.881666699999997, 6.54]
-			},
+				"coordinates": [
+					-117.6946667,
+					35.881666699999997,
+					6.54
+				]
+			}
 		},
 		{
 			"type": "Feature",
-			"properties": {
-			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [-155.28033450000001, 19.4064999, 0.11]
-			},
+				"coordinates": [
+					-155.28033450000001,
+					19.4064999,
+					0.11
+				]
+			}
 		},
 		{
 			"type": "Feature",
-			"properties": {
-			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [-148.45930000000001, 61.070599999999999, 0]
-			},
+				"coordinates": [
+					-148.45930000000001,
+					61.070599999999999,
+					0
+				]
+			}
 		},
 		{
 			"type": "Feature",
-			"properties": {
-			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [-117.45099639999999, 35.6521683, 2.48]
-			},
+				"coordinates": [
+					-117.45099639999999,
+					35.6521683,
+					2.48
+				]
+			}
 		}
 	],
-	"bbox": [-155.2803345, 19.4064999, 0, -117.4373333, 63.564, 31.8]
+	"bbox": [
+		-155.2803345,
+		19.4064999,
+		0,
+		-117.4373333,
+		63.564,
+		31.8
+	]
 }
