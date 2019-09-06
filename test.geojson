@@ -1,13 +1,155 @@
-{"type":"FeatureCollection","metadata":{"generated":1567753932000,"url":"https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson","title":"USGS All Earthquakes, Past Hour","status":200,"api":"1.8.1","count":1},"features":[{"type":"Feature","properties":{"mag":1.51,"place":"8km ENE of Coso Junction, CA","time":1567753709340,"updated":1567753918919,"tz":-480,"url":"https://earthquake.usgs.gov/earthquakes/eventpage/ci38813911","detail":"https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci38813911.geojson","felt":null,"cdi":null,"mmi":null,"alert":null,"status":"automatic","tsunami":0,"sig":35,"net":"ci","code":"38813911","ids":",ci38813911,","sources":",ci,","types":",geoserve,nearby-cities,origin,phase-data,scitech-link,","nst":19,"dmin":0.045650000000000003,"rms":0.11,"gap":126,"magType":"ml","type":"earthquake","title":"M 1.5 - 8km ENE of Coso Junction, CA"},"geometry":{"type":"Point","coordinates":[-117.872,36.073999999999998,1.9299999999999999]},"id":"ci38813911"},
-{"type":"Feature","properties":{"mag":1.8400000000000001,"place":"14km SSW of Searles Valley, CA","time":1567753606210,"updated":1567753837843,"tz":-480,"url":"https://earthquake.usgs.gov/earthquakes/eventpage/ci38813903","detail":"https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci38813903.geojson","felt":null,"cdi":null,"mmi":null,"alert":null,"status":"automatic","tsunami":0,"sig":52,"net":"ci","code":"38813903","ids":",ci38813903,","sources":",ci,","types":",geoserve,nearby-cities,origin,phase-data,scitech-link,","nst":26,"dmin":0.02998,"rms":0.17999999999999999,"gap":90,"magType":"ml","type":"earthquake","title":"M 1.8 - 14km SSW of Searles Valley, CA"},"geometry":{"type":"Point","coordinates":[-117.4555,35.649999999999999,2.5099999999999998]},"id":"ci38813903"},
-{"type":"Feature","properties":{"mag":1.5700000000000001,"place":"14km SSW of Searles Valley, CA","time":1567753581790,"updated":1567753818842,"tz":-480,"url":"https://earthquake.usgs.gov/earthquakes/eventpage/ci38813895","detail":"https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci38813895.geojson","felt":null,"cdi":null,"mmi":null,"alert":null,"status":"automatic","tsunami":0,"sig":38,"net":"ci","code":"38813895","ids":",ci38813895,","sources":",ci,","types":",geoserve,nearby-cities,origin,phase-data,scitech-link,","nst":27,"dmin":0.0281,"rms":0.20000000000000001,"gap":59,"magType":"ml","type":"earthquake","title":"M 1.6 - 14km SSW of Searles Valley, CA"},"geometry":{"type":"Point","coordinates":[-117.4518333,35.6488333,1.73]},"id":"ci38813895"},
-{"type":"Feature","properties":{"mag":1.1000000000000001,"place":"87km ENE of Cantwell, Alaska","time":1567753230401,"updated":1567753425333,"tz":-540,"url":"https://earthquake.usgs.gov/earthquakes/eventpage/ak019bfwzijk","detail":"https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak019bfwzijk.geojson","felt":null,"cdi":null,"mmi":null,"alert":null,"status":"automatic","tsunami":0,"sig":19,"net":"ak","code":"019bfwzijk","ids":",ak019bfwzijk,","sources":",ak,","types":",geoserve,origin,","nst":null,"dmin":null,"rms":0.81000000000000005,"gap":null,"magType":"ml","type":"earthquake","title":"M 1.1 - 87km ENE of Cantwell, Alaska"},"geometry":{"type":"Point","coordinates":[-147.2336,63.564,12.800000000000001]},"id":"ak019bfwzijk"},
-{"type":"Feature","properties":{"mag":0.98999999999999999,"place":"16km S of Searles Valley, CA","time":1567753170540,"updated":1567753386053,"tz":-480,"url":"https://earthquake.usgs.gov/earthquakes/eventpage/ci38813887","detail":"https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci38813887.geojson","felt":null,"cdi":null,"mmi":null,"alert":null,"status":"automatic","tsunami":0,"sig":15,"net":"ci","code":"38813887","ids":",ci38813887,","sources":",ci,","types":",geoserve,nearby-cities,origin,phase-data,scitech-link,","nst":21,"dmin":0.037879999999999997,"rms":0.17999999999999999,"gap":82,"magType":"ml","type":"earthquake","title":"M 1.0 - 16km S of Searles Valley, CA"},"geometry":{"type":"Point","coordinates":[-117.43733330000001,35.628833299999997,2.3500000000000001]},"id":"ci38813887"},
-{"type":"Feature","properties":{"mag":1.8400000000000001,"place":"14km SSW of Searles Valley, CA","time":1567752630980,"updated":1567753385796,"tz":-480,"url":"https://earthquake.usgs.gov/earthquakes/eventpage/ci38813879","detail":"https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci38813879.geojson","felt":1,"cdi":2,"mmi":null,"alert":null,"status":"automatic","tsunami":0,"sig":52,"net":"ci","code":"38813879","ids":",ci38813879,","sources":",ci,","types":",dyfi,focal-mechanism,geoserve,nearby-cities,origin,phase-data,scitech-link,","nst":24,"dmin":0.029950000000000001,"rms":0.14000000000000001,"gap":58,"magType":"ml","type":"earthquake","title":"M 1.8 - 14km SSW of Searles Valley, CA"},"geometry":{"type":"Point","coordinates":[-117.4541667,35.648333299999997,2.1400000000000001]},"id":"ci38813879"},
-{"type":"Feature","properties":{"mag":2.7200000000000002,"place":"20km E of Little Lake, CA","time":1567752574940,"updated":1567753249400,"tz":-480,"url":"https://earthquake.usgs.gov/earthquakes/eventpage/ci38813871","detail":"https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci38813871.geojson","felt":null,"cdi":null,"mmi":null,"alert":null,"status":"automatic","tsunami":0,"sig":114,"net":"ci","code":"38813871","ids":",ci38813871,","sources":",ci,","types":",focal-mechanism,geoserve,nearby-cities,origin,phase-data,scitech-link,","nst":34,"dmin":0.040989999999999999,"rms":0.17999999999999999,"gap":44,"magType":"ml","type":"earthquake","title":"M 2.7 - 20km E of Little Lake, CA"},"geometry":{"type":"Point","coordinates":[-117.6866667,35.919333299999998,2.0600000000000001]},"id":"ci38813871"},
-{"type":"Feature","properties":{"mag":1.8999999999999999,"place":"13km WSW of Searles Valley, CA","time":1567751856100,"updated":1567752524270,"tz":-480,"url":"https://earthquake.usgs.gov/earthquakes/eventpage/ci38813847","detail":"https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci38813847.geojson","felt":null,"cdi":null,"mmi":null,"alert":null,"status":"automatic","tsunami":0,"sig":56,"net":"ci","code":"38813847","ids":",ci38813847,","sources":",ci,","types":",focal-mechanism,geoserve,nearby-cities,origin,phase-data,scitech-link,","nst":33,"dmin":0.099849999999999994,"rms":0.13,"gap":55,"magType":"ml","type":"earthquake","title":"M 1.9 - 13km WSW of Searles Valley, CA"},"geometry":{"type":"Point","coordinates":[-117.5343333,35.718000000000004,4.2400000000000002]},"id":"ci38813847"},
-{"type":"Feature","properties":{"mag":0.59999999999999998,"place":"63km NNW of Cape Yakataga, Alaska","time":1567751626243,"updated":1567751759884,"tz":-540,"url":"https://earthquake.usgs.gov/earthquakes/eventpage/ak019bfwl6sg","detail":"https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak019bfwl6sg.geojson","felt":null,"cdi":null,"mmi":null,"alert":null,"status":"automatic","tsunami":0,"sig":6,"net":"ak","code":"019bfwl6sg","ids":",ak019bfwl6sg,","sources":",ak,","types":",geoserve,origin,","nst":null,"dmin":null,"rms":0.70999999999999996,"gap":null,"magType":"ml","type":"earthquake","title":"M 0.6 - 63km NNW of Cape Yakataga, Alaska"},"geometry":{"type":"Point","coordinates":[-142.97880000000001,60.570399999999999,31.800000000000001]},"id":"ak019bfwl6sg"},
-{"type":"Feature","properties":{"mag":0.91000000000000003,"place":"20km ESE of Little Lake, CA","time":1567750962180,"updated":1567751179036,"tz":-480,"url":"https://earthquake.usgs.gov/earthquakes/eventpage/ci38813831","detail":"https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci38813831.geojson","felt":null,"cdi":null,"mmi":null,"alert":null,"status":"automatic","tsunami":0,"sig":13,"net":"ci","code":"38813831","ids":",ci38813831,","sources":",ci,","types":",geoserve,nearby-cities,origin,phase-data,scitech-link,","nst":16,"dmin":0.075240000000000001,"rms":0.14999999999999999,"gap":86,"magType":"ml","type":"earthquake","title":"M 0.9 - 20km ESE of Little Lake, CA"},"geometry":{"type":"Point","coordinates":[-117.6946667,35.881666699999997,6.54]},"id":"ci38813831"},
-{"type":"Feature","properties":{"mag":1.9299999999999999,"place":"5km WSW of Volcano, Hawaii","time":1567750931710,"updated":1567751121440,"tz":-600,"url":"https://earthquake.usgs.gov/earthquakes/eventpage/hv71128022","detail":"https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv71128022.geojson","felt":null,"cdi":null,"mmi":null,"alert":null,"status":"automatic","tsunami":0,"sig":57,"net":"hv","code":"71128022","ids":",hv71128022,","sources":",hv,","types":",geoserve,origin,phase-data,","nst":17,"dmin":0.01166,"rms":0.11,"gap":44,"magType":"md","type":"earthquake","title":"M 1.9 - 5km WSW of Volcano, Hawaii"},"geometry":{"type":"Point","coordinates":[-155.28033450000001,19.4064999,0.11]},"id":"hv71128022"},
-{"type":"Feature","properties":{"mag":1.6000000000000001,"place":"35km NNE of Whittier, Alaska","time":1567750844732,"updated":1567751027282,"tz":-540,"url":"https://earthquake.usgs.gov/earthquakes/eventpage/ak019bfwieck","detail":"https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak019bfwieck.geojson","felt":null,"cdi":null,"mmi":null,"alert":null,"status":"automatic","tsunami":0,"sig":39,"net":"ak","code":"019bfwieck","ids":",ak019bfwieck,","sources":",ak,","types":",geoserve,origin,","nst":null,"dmin":null,"rms":0.81999999999999995,"gap":null,"magType":"ml","type":"earthquake","title":"M 1.6 - 35km NNE of Whittier, Alaska"},"geometry":{"type":"Point","coordinates":[-148.45930000000001,61.070599999999999,0]},"id":"ak019bfwieck"},
-{"type":"Feature","properties":{"mag":1.3700000000000001,"place":"14km SSW of Searles Valley, CA","time":1567750601710,"updated":1567750819452,"tz":-480,"url":"https://earthquake.usgs.gov/earthquakes/eventpage/ci38813807","detail":"https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci38813807.geojson","felt":null,"cdi":null,"mmi":null,"alert":null,"status":"automatic","tsunami":0,"sig":29,"net":"ci","code":"38813807","ids":",ci38813807,","sources":",ci,","types":",geoserve,nearby-cities,origin,phase-data,scitech-link,","nst":20,"dmin":0.066159999999999997,"rms":0.14999999999999999,"gap":91,"magType":"ml","type":"earthquake","title":"M 1.4 - 14km SSW of Searles Valley, CA"},"geometry":{"type":"Point","coordinates":[-117.45099639999999,35.6521683,2.48]},"id":"ci38813807"}],"bbox":[-155.2803345,19.4064999,0,-117.4373333,63.564,31.8]}
+{
+	"type": "FeatureCollection",
+	"metadata": {
+		"count": 1
+	},
+	"features": [{
+			"type": "Feature",
+			"properties": {
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-117.872, 36.073999999999998, 1.9299999999999999]
+			},
+		},
+		{
+			"type": "Feature",
+			"properties": {
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-117.4555, 35.649999999999999, 2.5099999999999998]
+			},
+		},
+		{
+			"type": "Feature",
+			"properties": {
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-117.4518333, 35.6488333, 1.73]
+			},
+			"id": "ci38813895"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-147.2336, 63.564, 12.800000000000001]
+			},
+			"id": "ak019bfwzijk"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-117.43733330000001, 35.628833299999997, 2.3500000000000001]
+			},
+		},
+		{
+			"type": "Feature",
+			"properties": {
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-117.4541667, 35.648333299999997, 2.1400000000000001]
+			},
+		},
+		{
+			"type": "Feature",
+			"properties": {
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-117.6866667, 35.919333299999998, 2.0600000000000001]
+			},
+		},
+		{
+			"type": "Feature",
+			"properties": {
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-117.5343333, 35.718000000000004, 4.2400000000000002]
+			},
+		},
+		{
+			"type": "Feature",
+			"properties": {
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-142.97880000000001, 60.570399999999999, 31.800000000000001]
+			},
+			"id": "ak019bfwl6sg"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-117.6946667, 35.881666699999997, 6.54]
+			},
+			"id": "ci38813831"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-155.28033450000001, 19.4064999, 0.11]
+			},
+		},
+		{
+			"type": "Feature",
+			"properties": {
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-148.45930000000001, 61.070599999999999, 0]
+			},
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"mag": 1.3700000000000001,
+				"place": "14km SSW of Searles Valley, CA",
+				"time": 1567750601710,
+				"updated": 1567750819452,
+				"tz": -480,
+				"url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci38813807",
+				"detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci38813807.geojson",
+				"felt": null,
+				"cdi": null,
+				"mmi": null,
+				"alert": null,
+				"status": "automatic",
+				"tsunami": 0,
+				"sig": 29,
+				"net": "ci",
+				"code": "38813807",
+				"ids": ",ci38813807,",
+				"sources": ",ci,",
+				"types": ",geoserve,nearby-cities,origin,phase-data,scitech-link,",
+				"nst": 20,
+				"dmin": 0.066159999999999997,
+				"rms": 0.14999999999999999,
+				"gap": 91,
+				"magType": "ml",
+				"type": "earthquake",
+				"title": "M 1.4 - 14km SSW of Searles Valley, CA"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-117.45099639999999, 35.6521683, 2.48]
+			},
+			"id": "ci38813807"
+		}
+	],
+	"bbox": [-155.2803345, 19.4064999, 0, -117.4373333, 63.564, 31.8]
+}
