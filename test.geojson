@@ -29,7 +29,6 @@
 				"type": "Point",
 				"coordinates": [-117.4518333, 35.6488333, 1.73]
 			},
-			"id": "ci38813895"
 		},
 		{
 			"type": "Feature",
@@ -94,7 +93,6 @@
 				"type": "Point",
 				"coordinates": [-117.6946667, 35.881666699999997, 6.54]
 			},
-			"id": "ci38813831"
 		},
 		{
 			"type": "Feature",
@@ -117,38 +115,11 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"mag": 1.3700000000000001,
-				"place": "14km SSW of Searles Valley, CA",
-				"time": 1567750601710,
-				"updated": 1567750819452,
-				"tz": -480,
-				"url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci38813807",
-				"detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci38813807.geojson",
-				"felt": null,
-				"cdi": null,
-				"mmi": null,
-				"alert": null,
-				"status": "automatic",
-				"tsunami": 0,
-				"sig": 29,
-				"net": "ci",
-				"code": "38813807",
-				"ids": ",ci38813807,",
-				"sources": ",ci,",
-				"types": ",geoserve,nearby-cities,origin,phase-data,scitech-link,",
-				"nst": 20,
-				"dmin": 0.066159999999999997,
-				"rms": 0.14999999999999999,
-				"gap": 91,
-				"magType": "ml",
-				"type": "earthquake",
-				"title": "M 1.4 - 14km SSW of Searles Valley, CA"
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [-117.45099639999999, 35.6521683, 2.48]
 			},
-			"id": "ci38813807"
 		}
 	],
 	"bbox": [-155.2803345, 19.4064999, 0, -117.4373333, 63.564, 31.8]
